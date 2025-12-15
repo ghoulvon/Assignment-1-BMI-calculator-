@@ -1,8 +1,9 @@
-# BMI Calculator WEB Technologies 2 (Back End)
+# Assignment 1 | BMI Calculator WEB Technologies 2 (Back End)
 
-✅ **Student**: Ardak  
-✅ **ID**: 241266 
-✅ **Features**:  
+**Student**: Ardak  
+**ID**: 241266 
+
+**Features**:  
 - Node.js + Express backend  
 - Server-side validation  
 - WHO BMI categories with color coding  
