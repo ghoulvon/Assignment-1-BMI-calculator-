@@ -1,6 +1,6 @@
 # Assignment 1 | BMI Calculator WEB Technologies 2 (Back End)
 
-**Student**: Ardak  
+**Student**: Ardak Islam
 **ID**: 241266 
 
 **Features**:  
